@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmann7
 - 👀 I’m interested in fullstack software development
-- 🌱 I’m currently learning React, Node
+- 🌱 I’m currently learning React, Node, and diving deeper into algorithm design.
 - 📫 Reach me at brandon.mannarino@gmail.com!
 
 <!---
